@@ -1,0 +1,9 @@
+C:\Users\Арсений\source\repos\TestProjectDatabase\bin\Debug\TestProjectDatabase.dacpac
+C:\Users\Арсений\source\repos\TestProjectDatabase\bin\Debug\TestProjectDatabase.dll
+C:\Users\Арсений\source\repos\TestProjectDatabase\bin\Debug\TestProjectDatabase.pdb
+C:\Users\Арсений\source\repos\TestProjectDatabase\obj\Debug\Model.xml
+C:\Users\Арсений\source\repos\TestProjectDatabase\obj\Debug\refactor.xml
+C:\Users\Арсений\source\repos\TestProjectDatabase\obj\Debug\postdeploy.sql
+C:\Users\Арсений\source\repos\TestProjectDatabase\obj\Debug\predeploy.sql
+C:\Users\Арсений\source\repos\TestProjectDatabase\obj\Debug\TestProjectDatabase.dll
+C:\Users\Арсений\source\repos\TestProjectDatabase\obj\Debug\TestProjectDatabase.pdb
